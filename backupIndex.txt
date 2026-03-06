@@ -36,7 +36,7 @@
 
             <section id="welcome">
                 <h2>Bine ati venit</h2>
-                    <a href="pagina.html">Alta pagina</a>
+                    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Alta pagina</a>
                     <a href="http://www.google.com">Alta pagina</a>
                     <figure>
                         <picture>
@@ -278,6 +278,10 @@
             </section>
 
         </div>
+        <section id="FaQ">
+            <h2>Întrebări puse frecvent:</h2>
+            <h3></h3>
+        </section>
         <section id="evenimente">
             <h2>Evenimente:</h2>
             <p><time>2026-09-10</time> Training camp pentru începători</p>
